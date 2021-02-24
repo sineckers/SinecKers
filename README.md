@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-My name is Yaşar. I'm 17 and Turkish.
+My name is Yaşar. I'm 18 and Turkish.
 
-Javascript Developer
+> Discord Bot Developer (JS)
+> Fivem Developer Lua & Javascript
 
-I'm learning C# and CSS.
+I'm still learning CSS.
 Will learn React and Vue.js 
 
 About me (for now just Turkish): https://sineckers.github.io/
