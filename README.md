@@ -3,6 +3,7 @@
 My name is Yaşar. I'm 18 and Turkish.
 
 > Discord Bot Developer (JS)
+
 > Fivem Developer Lua & Javascript
 
 I'm still learning CSS.
