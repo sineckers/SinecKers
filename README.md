@@ -12,7 +12,7 @@ My name is Yaşar. I'm 18 and Turkish.
 
 Discord Bots: 
 
-Nors Bot (Nearly 40k Guilds 🎉) https://top.gg/bot/681137419663441933
+Nors Bot (Nearly 50k Guilds 🎉) https://top.gg/bot/681137419663441933
 
 Sistem Bot: https://top.gg/bot/571819087211134997
 
