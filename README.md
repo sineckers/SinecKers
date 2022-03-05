@@ -12,11 +12,11 @@ My name is Yaşar. I'm 18 and Turkish.
 
 Discord Bots: 
 
-Nors Bot (Nearly 50k Guilds 🎉) https://top.gg/bot/681137419663441933
+Nors Bot (Nearly 80k Guilds 🎉) https://top.gg/bot/681137419663441933
 
 Sistem Bot: https://top.gg/bot/571819087211134997
 
-Alpos (Paid 💵) https://alpos.site Fivem CrossBan System & Realtime in game integration with discord
+Alpos (Paid 💵) https://alpos.site Fivem Discord CrossBan System & Realtime in-game integration with discord
 
 Other:
 
