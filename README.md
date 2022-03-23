@@ -27,3 +27,4 @@ I'm a self-taught Node.js developer that tries to improve the technical and prog
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasar-yilmaz)
 [![Twitter](https://img.shields.io/badge/ysrylmz32-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ysrylmz32)
+[![Mail Me](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasar.ylmz.yt@gmail.com)
