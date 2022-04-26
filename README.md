@@ -8,7 +8,7 @@ I'm a self-taught Node.js developer that tries to improve the technical and prog
 - 📄 Know about my experiences [Resume](https://rxresu.me/r/qhbU3Mkl)
 
 #### 🔒 My Private Projects
-- Nors Bot - A discord registiration system bot - [See on Top.gg](https://norsbot.xyz)
+- Nors Bot - A discord registiration system bot - [Website](https://norsbot.xyz) Also [See on Top.gg](https://top.gg/bot/681137419663441933)
 - Alpos Fivem - Discord CrossBan System & Realtime in-game integration for Fivem - [Get Information](https://nioteknoloji.com/alpos-projesi/)
 
 #### 💻 Languages
