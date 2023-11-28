@@ -3,12 +3,12 @@ I'm a self-taught Node.js developer that tries to improve the technical and prog
 
 - 🎓 I’m currently studying English Language and Literature at Manisa Celal Bayar University.
 - 🔭 I’m mainly working on Backend services and Discord bots.
-- 🌱 I’m currently learning DevOps, React and OOP.
+- 🌱 I’m currently learning DevOps, k8s&k3s and OOP.
 - 👯 I’m open to work on Backend projects.
-- 📄 Know about my experiences [Resume](https://rxresu.me/r/qhbU3Mkl)
+- 📄 Know about my experiences [Resume](https://rxresu.me/sineckers/yasaryilmaz)
 
 #### 🔒 My Private Projects
-- Nors Bot - A discord registiration system bot (We hit 100k Servers 🎉) - [Website](https://norsbot.xyz) Also [See on Top.gg](https://top.gg/bot/681137419663441933)
+- Nors Bot - A discord registiration system bot (We hit 150k Servers 🎉) - [Website](https://norsbot.xyz) Also [See on Top.gg](https://top.gg/bot/681137419663441933)
 - Alpos Fivem - Discord CrossBan System & Realtime in-game integration for Fivem - [Get Information](https://nioteknoloji.com/alpos-projesi/)
 
 #### 💻 Languages
@@ -26,7 +26,6 @@ I'm a self-taught Node.js developer that tries to improve the technical and prog
 #### Contact with me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasar-yilmaz)
-[![Twitter](https://img.shields.io/badge/ysrylmz32-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ysrylmz32)
 [![Mail Me](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasar.ylmz.yt@gmail.com)
 [![Discord](https://img.shields.io/badge/discord-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/380411952666640385)
 
